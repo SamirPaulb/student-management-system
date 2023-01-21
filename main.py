@@ -21,7 +21,7 @@ def DisplayForm():
     #setting width and height for window
     display_screen.geometry("900x400")
     #setting title for window
-    display_screen.title("SAMIR PAUL")
+    display_screen.title("Student Management System")
     global tree
     global SEARCH
     global name,contact,email,rollno,branch
